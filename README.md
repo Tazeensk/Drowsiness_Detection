@@ -18,3 +18,6 @@ See the `requirements.txt` file for a list of required Python packages.
 
 This project is based on [OpenCV](https://opencv.org/) for computer vision tasks and [TensorFlow](https://www.tensorflow.org/) for deep learning.
 
+## Outputs
+https://github.com/Tazeensk/Drowsiness_Detection/blob/main/Output1.png
+https://github.com/Tazeensk/Drowsiness_Detection/blob/main/Outpu2.png
