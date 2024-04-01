@@ -20,4 +20,4 @@ This project is based on [OpenCV](https://opencv.org/) for computer vision tasks
 
 ## Outputs
 https://github.com/Tazeensk/Drowsiness_Detection/blob/main/Output1.png
-https://github.com/Tazeensk/Drowsiness_Detection/blob/main/Outpu2.png
+https://github.com/Tazeensk/Drowsiness_Detection/blob/main/outpu2.png
