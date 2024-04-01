@@ -1,0 +1,9 @@
+opencv-python==4.5.3.56
+numpy==1.19.5
+tensorflow==2.7.0
+pillow==8.4.0
+Alternatively, you can generate the requirements.txt file automatically if you have already installed the necessary packages in your Python environment.
+To do this, open a terminal or command prompt, navigate to your project directory, and run the following command:
+pip freeze > requirements.txt
+This command will create a requirements.txt file containing all installed Python packages and their versions.
+Make sure you are in the correct virtual environment (if you're using one) to capture only the dependencies needed for your project.
